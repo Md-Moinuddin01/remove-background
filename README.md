@@ -1,6 +1,7 @@
 # HD Background Remover Website
 
 This is a local web app that removes image backgrounds in the browser and exports the result in multiple formats.
+<img width="1847" height="952" alt="remove bg" src="https://github.com/user-attachments/assets/e032a72c-311d-4e4e-8d40-c39100a4428a" />
 
 ## Features
 
